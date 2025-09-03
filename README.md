@@ -38,7 +38,7 @@
 - 🖼️ [Image Classification with CNN (CIFAR-10)](./cifar10-image-classification)  
   *Deep learning project using Convolutional Neural Networks for image recognition.*  
 
-- 🌱 [Agricultural Yield Prediction](/juluo1988/Agricultural_Yield_Project)  
+- 🌱 [Agricultural Yield Prediction](https://github.com/juluo1988/Agricultural_Yield_Project)  
   *Analyzing and predicting agricultural performance across Canada using regression and ML models.*  
 
 - 🏥 [Hospital Length of Stay Prediction](./hospital-los)  
