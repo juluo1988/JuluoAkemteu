@@ -49,6 +49,6 @@
 ## 📫 Contact  
 - ✉️ Email : [juluoakemteu@gmail.com](mailto:juluoakemteu@gmail.com)  
 - 🔗 LinkedIn : [Akemteu Juluo](https://www.linkedin.com/in/akemteu-juluo/)  
-- 🌐 Portfolio : *(GitHub Pages coming soon)*  
+- 🌐 Portfolio : https://github.com/juluo1988/JuluoAkemteu/tree/main 
 
 ---
