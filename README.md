@@ -32,13 +32,13 @@
 
 ## 📂 Featured Projects  
 
-- 🚖 [NYC Taxi Analysis with PySpark](./taxi-analysis)  
+- 🚖 [NYC Taxi Analysis with PySpark](../taxi-analysis)  
   *Big data cleaning and analysis using Spark SQL and DataFrames.*  
 
 - 🖼️ [Image Classification with CNN (CIFAR-10)](./cifar10-image-classification)  
   *Deep learning project using Convolutional Neural Networks for image recognition.*  
 
-- 🌱 [Agricultural Yield Prediction](./agriculture-yield-prediction)  
+- 🌱 [Agricultural Yield Prediction](/juluo1988/Agricultural_Yield_Project)  
   *Analyzing and predicting agricultural performance across Canada using regression and ML models.*  
 
 - 🏥 [Hospital Length of Stay Prediction](./hospital-los)  
