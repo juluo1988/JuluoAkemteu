@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Juluo Akemteu  
 
-🎓 Mathematics & Computer Science teacher (7+ years) | 📊 Aspiring Data Scientist  
+🎓 Mathematics & Computer Science teacher (7+ years) | 📊 Data Scientist  
 💻 Interested in **banking, e-commerce, education, healthcare** applications of data  
 
 ## 🚀 Skills
